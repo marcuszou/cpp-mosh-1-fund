@@ -10,46 +10,17 @@ by Code-with-Mosh
 
 ### 2- The Basics
 
-HelloWord.cpp
+### 3- Data Types
 
-```cpp
-#include <iostream>
-#include <cmath>
+Paused @3.3
 
-using namespace std;
+### 4- Decision Making
 
-int main() {
-    /*
-     * multiple lines
-     * again?
-     */
-    cout << "Enter radius: ";
-    double radius;
-    cin >> radius;
-    const double pi = 3.14;
-    double area = pi * pow(radius, 2);
-    cout << area;
-    return 0;
-}
-```
+### 5- Loops
 
-3- Data Types
+### 6- Functions
 
-
-
-4- Decision Making
-
-
-
-5- Loops
-
-
-
-6- Functions
-
-
-
-7- Wrap-up
+### 7- Wrap-up
 
 
 

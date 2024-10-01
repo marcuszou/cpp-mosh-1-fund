@@ -1,10 +1,6 @@
-# Ultimate C++ Course 3 in 1
+# Ultimate C++ Course 1 - Fundamental
 
 by Code-with-Mosh
-
-
-
-## Course 1 Fundamentals
 
 ### 1- Getting Started
 

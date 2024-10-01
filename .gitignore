@@ -4,3 +4,5 @@ unit2/.idea/
 unit2/cmake-build-debug/
 unit3/.idea/
 unit3/cmake-build-debug/
+.vscode/
+.idea/

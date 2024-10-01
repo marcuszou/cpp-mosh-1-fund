@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/unit3.dir/main.cpp.o -o unit3 
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/unit3.dir/main.cpp.o -o unit3

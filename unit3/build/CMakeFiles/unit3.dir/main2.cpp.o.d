@@ -1,5 +1,5 @@
-CMakeFiles/unit3.dir/main.cpp.o: \
-  /Users/marcus/CLionProjects/cpp-mosh-1-fund/unit3/main.cpp \
+CMakeFiles/unit3.dir/main2.cpp.o: \
+  /Users/marcus/CLionProjects/cpp-mosh-1-fund/unit3/main2.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__assert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/c++/v1/__assertion_handler \

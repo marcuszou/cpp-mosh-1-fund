@@ -1,8 +1,12 @@
 unit1/.idea/
 unit1/cmake-build-debug/
+unit1/.DS_Store
 unit2/.idea/
 unit2/cmake-build-debug/
+unit2/DS_Store
 unit3/.idea/
 unit3/cmake-build-debug/
+unit3/DS_Store
 .vscode/
 .idea/
+.DS_Store

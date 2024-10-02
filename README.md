@@ -10,13 +10,11 @@ by Code-with-Mosh
 
 ### 4- Decision Making
 
-@4.1
-
 ### 5- Loops
 
 ### 6- Functions
 
 ### 7- Wrap-up
 
-
+- Finished on day 5.
 

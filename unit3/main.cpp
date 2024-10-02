@@ -3,7 +3,6 @@
 #include <ctime>
 #include <iomanip>
 
-
 using namespace std;
 
 int main() {
@@ -50,19 +49,19 @@ int main() {
          << setw(10) << "Summer" << setw(10) << "Hot" << endl;
     cout << fixed << setprecision(2) << 12.34567 << endl << endl;
 
-    //Data type
-    cout << "Data Type - More " << endl;
-    cout << sizeof(int) << endl;
-    cout << numeric_limits<int>::min() << endl
-         << numeric_limits<int>::max() << endl;
+    //Data type - comments out in Linux
+    //cout << "Data Type - More " << endl;
+    //cout << sizeof(int) << endl;
+    //cout << numeric_limits<int>::min() << endl
+    //     << numeric_limits<int>::max() << endl;
 
-    int number2 = numeric_limits<int>::max();
-    number2++;
-    cout << number2 << " (overflow)" << endl;
+    //int number2 = numeric_limits<int>::max();
+    //number2++;
+    //cout << number2 << " (overflow)" << endl;
 
-    int number3 = numeric_limits<int>::min();
-    number3--;
-    cout << number3 << " (underflow)" << endl << endl;
+    //int number3 = numeric_limits<int>::min();
+    //number3--;
+   // cout << number3 << " (underflow)" << endl << endl;
 
     //Booleans
     cout << "Booleans " << endl;
@@ -81,7 +80,34 @@ int main() {
     string name;
     cout << "Enter your name: ";
     getline(cin, name);
-    cout << "Hi " << name << endl;
+    cout << "Hi " << name << endl << endl;
+
+    // Arrays
+    int numbers[] = {1,2,3,4,5};
+    numbers[1] = 10;
+    cout << numbers[0] << numbers[1] << endl << endl;
+
+    // Array Exercise
+    string names[3];
+
+    cout << "Names: ";
+    getline(cin, names[0]);
+
+    cout << "Names: ";
+    getline(cin, names[1]);
+
+    cout << "Names: ";
+    getline(cin, names[2]);
+
+    cout << names[0] << endl << endl;
+
+    // Casting
+    int r = 1;
+    double s = 2.2;
+    double t = r + s;
+    int w = r + static_cast<int>(s);  // C++ casting
+    cout << t << endl;
+    cout << w << endl << endl;
 
     return 0;
 }

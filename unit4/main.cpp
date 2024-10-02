@@ -57,7 +57,7 @@ int main() {
 
     // Switch statement
     cout << "1- Create account" << endl
-         << "2 - Change Passpord" << endl
+         << "2- Change passpord" << endl
          << "3- Quit" << endl
          << "Select an option: ";
     short input;

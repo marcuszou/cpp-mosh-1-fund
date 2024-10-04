@@ -1,6 +1,6 @@
 # Ultimate C++ Course 1 - Fundamental
 
-by Code-with-Mosh
+
 
 ### 1- Getting Started
 
